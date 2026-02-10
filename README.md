@@ -2,7 +2,7 @@
 # Team Number – BB6 – Semantic-Augmented Prompt-Guided Sketch Filling for Text-to-SQL Generation
 
 ## Team Info
-- 22471A05A6 — **Kurivella Bala Venkata Mani Kanta ** ( [LinkedIn](https://www.linkedin.com/in/kurivella-bala-venkata-manikanta-001421352) )
+- ##22471A05A6 — **Kurivella Bala Venkata Mani Kanta ** ( [LinkedIn](https://www.linkedin.com/in/kurivella-bala-venkata-manikanta-001421352) )
 -Work Done: Project lead; responsible for model selection, training, evaluation, and overall system integration. Implemented deep learning pipelines for multiclass skin lesion classification and handled performance analysis.
 
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
