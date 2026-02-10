@@ -80,7 +80,28 @@ This project is developed using Python and executed on Google Colab for training
 ---
 
 ## EDA & Preprocessing
-xxxxxxxxxx
+- Mounted Google Drive in Google Colab and imported required libraries for data loading and analysis.
+
+- Loaded the WikiSQL dataset and reviewed the distribution of training, validation, and test samples.
+
+- Verified the integrity of question–SQL pairs and ensured all queries had corresponding schema information.
+
+- Analyzed natural language question lengths and SQL query complexity to understand data characteristics.
+
+- Identified table schemas, column names, and data types used across the dataset.
+
+- Normalized text by converting to lowercase and handling punctuation for consistent tokenization.
+
+- Constructed structured prompts by combining user queries with table schema details.
+
+- Generated SQL sketch templates with placeholders for SELECT, WHERE, operators, and values.
+  Tokenized input prompts and target SQL queries using the T5 tokenizer.
+
+- Applied padding and truncation to maintain uniform sequence lengths.
+
+- Converted processed data into tensors suitable for model training.
+
+- Completed data cleaning and preprocessing to ensure the dataset was ready for accurate and stable model training.
 
 ---
 
