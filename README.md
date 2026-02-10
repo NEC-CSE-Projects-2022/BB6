@@ -62,8 +62,12 @@ A natural language question is provided as input → the query is combined with 
 ---
 
 ## Dataset Used
-👉 **[Dataset Name](Dataset URL)**
+👉 **[Dataset Name](https://drive.google.com/drive/folders/1CntK0aiedkbU-HXVvuID_EqZqpv1iiUS?usp=drive_link)**
+Dataset Details:
+This project uses the WikiSQL dataset, which contains over 80,000 natural language questions paired with corresponding SQL queries and table schemas. The dataset is divided into three subsets: a training set for model learning, a validation set for tuning and performance improvement, and a test set for final evaluation.
 
+The dataset is a standard benchmark for Text-to-SQL research and is publicly available at:
+https://github.com/salesforce/WikiSQL
 **Dataset Details:**
 xxxxxxxxxx
 
