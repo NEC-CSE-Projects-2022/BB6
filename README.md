@@ -115,7 +115,10 @@ After training, the model is evaluated using Execution Accuracy (EX) and Logical
 ---
 
 ## Model Testing / Evaluation
-xxxxxxxxxx
+The model was evaluated after training to ensure reliable performance in practical Text-to-SQL scenarios. Validation was performed using Execution Accuracy (EX) and Logical Form Accuracy (LF) to assess the correctness of generated SQL queries.
+
+The model was further tested on a separate test set to verify its ability to generalize across unseen database schemas and queries. After confirming stable performance, the best model checkpoints were selected and saved. Finally, the system was tested end-to-end by executing generated SQL queries on the database to ensure correct result retrieval.
+
 
 ---
 
