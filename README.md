@@ -23,8 +23,8 @@ Enabling users to query relational databases using natural language is essential
 
 ## Paper Reference (Inspiration)
 👉 Generate Text-to-SQL Queries Based on Sketch Filling – Yinpei Fu, Songtao Ye, and Hongjie Fan (IEEE Access, 2024)
- ]( https://doi.org/10.1109/ACCESS.2024.3476927)**
-Original conference/IEEE paper used as inspiration for the model.
+ ([Paper Link] ( https://doi.org/10.1109/ACCESS.2024.3476927))**
+
 
 ---
 
