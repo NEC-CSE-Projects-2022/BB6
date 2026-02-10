@@ -137,24 +137,24 @@ The trained model was then deployed into a real-time monitoring system that capt
 
 ## Limitations & Future Work
 Limitations:
-The model is trained on the WikiSQL dataset, which is limited to single-table queries and may not fully represent complex real-world database scenarios.
+- The model is trained on the WikiSQL dataset, which is limited to single-table queries and may not fully represent complex real-world database scenarios.
 
-The system currently handles basic SQL structures and does not support advanced queries such as joins, nested queries, or group-by operations.
+- The system currently handles basic SQL structures and does not support advanced queries such as joins, nested queries, or group-by operations.
 
-Ambiguous or poorly phrased user questions can still lead to incorrect column or condition selection.
+- Ambiguous or poorly phrased user questions can still lead to incorrect column or condition selection.
 
-Evaluation is primarily performed on benchmark data, so performance may vary on unseen, domain-specific databases.
+- Evaluation is primarily performed on benchmark data, so performance may vary on unseen, domain-specific databases.
 
 Future Work:
-Extend the model to support complex SQL queries, including joins, aggregations, and nested subqueries.
+- Extend the model to support complex SQL queries, including joins, aggregations, and nested subqueries.
 
-Train and evaluate the system on larger and more diverse Text-to-SQL datasets to improve generalization.
+- Train and evaluate the system on larger and more diverse Text-to-SQL datasets to improve generalization.
 
-Integrate external knowledge sources or schema linking techniques to better handle ambiguity in user queries.
+- Integrate external knowledge sources or schema linking techniques to better handle ambiguity in user queries.
 
-Explore execution-guided decoding and interactive user feedback to further improve accuracy and robustness.
+- Explore execution-guided decoding and interactive user feedback to further improve accuracy and robustness.
 
-Deploy the system as a web or application-based interface for real-world database querying.
+- Deploy the system as a web or application-based interface for real-world database querying.
 
 
 
