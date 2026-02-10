@@ -1,5 +1,5 @@
 
-# Team Number – Project Title
+# Team Number – BB6 – Semantic-Augmented Prompt-Guided Sketch Filling for Text-to-SQL Generation
 
 ## Team Info
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
