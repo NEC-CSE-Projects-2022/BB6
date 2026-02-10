@@ -73,7 +73,9 @@ https://github.com/salesforce/WikiSQL
 ---
 
 ## Dependencies Used
-xxxxxxxxxx, xxxxxxxxxx, xxxxxxxxxx ...
+This project is developed using Python and executed on Google Colab for training and experimentation. PyTorch and the Hugging Face Transformers library are used to implement the T5 encoder–decoder model. NumPy and Pandas support data preprocessing, while SQLite and JSON are used for schema storage and SQL execution. Matplotlib, Torch, Tokenizers, and tqdm assist in training, visualization, and performance monitoring.
+
+
 
 ---
 
