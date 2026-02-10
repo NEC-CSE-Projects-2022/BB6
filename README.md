@@ -50,9 +50,14 @@ Enabling users to query relational databases using natural language is essential
 
 ## About the Project
 Give a simple explanation of:
-- What your project does
-- Why it is useful
-- General project workflow (input → processing → model → output)
+What the project does:
+This project converts natural language questions into executable SQL queries using a prompt-guided sketch filling approach based on the T5 transformer model. Instead of generating complete SQL statements directly, the system fills predefined SQL templates by understanding the user query and the corresponding database schema, ensuring accurate and syntactically valid query generation.
+
+Why it is useful:
+Querying databases usually requires knowledge of SQL, which can be difficult for non-technical users. This project makes database access easier by allowing users to retrieve information using plain English queries. By reducing semantic ambiguity and preventing invalid SQL generation, the system improves reliability and supports practical, real-world database interaction.
+
+General project workflow (Input → Processing → Model → Output):
+A natural language question is provided as input → the query is combined with database schema information to form a structured prompt → the prompt-guided T5 model processes the input and fills predefined SQL sketch placeholders → a complete SQL query is generated and executed on the database → the final query result is returned to the user.
 
 ---
 
