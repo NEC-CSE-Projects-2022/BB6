@@ -17,7 +17,7 @@ _Work Done: xxxxxxxxxx_
 ---
 
 ## Abstract
-xxxxxxxxxx
+Enabling users to query relational databases using natural language is essential for improving accessibility; however, traditional Text-to-SQL systems often struggle with semantic ambiguity and the generation of syntactically invalid queries, particularly for non-technical users. This work presents a prompt-guided sketch filling framework for automated natural language to SQL conversion, evaluated on the WikiSQL benchmark dataset. The proposed approach utilizes a T5 encoder–decoder architecture that generates SQL queries by completing predefined query sketches instead of producing full queries directly. By incorporating structured prompts, database schema information, and schema-aware attention mechanisms, the model effectively aligns user intent with relational structures while ensuring syntactic correctness. The system addresses key challenges such as ambiguous query interpretation and invalid SQL generation, achieving reliable performance suitable for practical database interaction. Experimental evaluation demonstrates that the proposed method attains an execution accuracy of 85.1%, outperforming the SQLNet baseline by 6.7%, highlighting its effectiveness for real-world natural language database querying applications.
 
 ---
 
