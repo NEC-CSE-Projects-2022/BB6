@@ -161,6 +161,6 @@ Future Work:
 ---
 
 ## Deployment Info
-xxxxxxxxxx
+The trained Text-to-SQL model is saved as a finalized model checkpoint and deployed on a local system for natural language database querying. Users can input questions in plain English, and the system generates and executes the corresponding SQL queries in real time. The deployment enables seamless interaction with databases, allowing non-technical users to retrieve accurate results without writing SQL manually.
 
 ---
