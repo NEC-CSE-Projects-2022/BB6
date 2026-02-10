@@ -68,8 +68,7 @@ This project uses the WikiSQL dataset, which contains over 80,000 natural langua
 
 The dataset is a standard benchmark for Text-to-SQL research and is publicly available at:
 https://github.com/salesforce/WikiSQL
-**Dataset Details:**
-xxxxxxxxxx
+
 
 ---
 
