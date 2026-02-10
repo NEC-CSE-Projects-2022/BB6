@@ -30,7 +30,21 @@ Enabling users to query relational databases using natural language is essential
 ---
 
 ## Our Improvement Over Existing Paper
-xxxxxxxxxx
+Enhanced the base sketch-filling approach by integrating prompt-guided SQL generation using the T5 encoder–decoder architecture, improving semantic understanding and query accuracy.
+
+Designed structured prompts that explicitly combine user queries with database schema information, strengthening schema–query alignment compared to the original model.
+
+Implemented a semantic-augmented sketch filling framework that reduces ambiguity and prevents invalid SQL generation by filling predefined query templates instead of generating full SQL statements.
+
+Conducted systematic preprocessing, training, validation, and testing on the WikiSQL dataset to ensure stable performance and reliable execution accuracy in practical scenarios.
+
+Converted the research-oriented model into a fully functional Text-to-SQL system capable of generating and executing SQL queries end to end.
+
+Focused on execution accuracy–driven evaluation, ensuring that generated queries return correct results rather than relying only on exact string matching.
+
+Optimized the implementation so the system can run efficiently on standard local machines without requiring high-end computational infrastructure.
+
+Emphasized practical usability by transforming a research-based Text-to-SQL model into a ready-to-use natural language database querying solution for non-technical users.
 
 ---
 
