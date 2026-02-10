@@ -106,7 +106,11 @@ This project is developed using Python and executed on Google Colab for training
 ---
 
 ## Model Training Info
-xxxxxxxxxx
+The model is developed using a prompt-guided sketch filling approach based on the T5 encoder–decoder architecture for Text-to-SQL generation. Training is carried out on Google Colab with GPU support using the WikiSQL dataset, which is divided into training, validation, and testing sets.
+
+Before training, the dataset is carefully preprocessed by validating question–SQL pairs, cleaning text, embedding schema information, and constructing structured prompts and SQL sketches. This ensures high-quality input and stable learning.
+
+After training, the model is evaluated using Execution Accuracy (EX) and Logical Form Accuracy (LF) to measure performance. The best-performing model checkpoints are saved and finalized, resulting in a trained Text-to-SQL model capable of generating and executing accurate SQL queries for real-world use.
 
 ---
 
