@@ -10,10 +10,6 @@
 
 ## 22471A0593 — Gundabattini Balaji ( [LinkedIn](https://www.linkedin.com/in/gundabattini-balaji-b38268356?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
  - Work Done: Contributed to exploratory data analysis, documentation, and visualization of results. Assisted in model comparison and report preparation.
- 
-
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
 
 ---
 
