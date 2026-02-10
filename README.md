@@ -5,11 +5,12 @@
 ## 22471A05A6 — Kurivella Bala Venkata Mani Kanta  ( [LinkedIn](https://www.linkedin.com/in/kurivella-bala-venkata-manikanta-001421352) )
  - Work Done: Project lead; responsible for model selection, training, evaluation, and overall system integration. Implemented deep learning pipelines for multiclass skin lesion classification and handled performance analysis.
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+## 22471A0594 — Gunti Srinivas ( [LinkedIn]() )
+ - Work Done: Worked on dataset preprocessing, augmentation strategies, and handling class imbalance. Assisted in experimentation and result validation.
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+## 22471A0593 — Gundabattini Balaji ( [LinkedIn](https://www.linkedin.com/in/gundabattini-balaji-b38268356?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
+ - Work Done: Contributed to exploratory data analysis, documentation, and visualization of results. Assisted in model comparison and report preparation.
+ 
 
 - 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
 _Work Done: xxxxxxxxxx_
